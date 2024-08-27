@@ -71,7 +71,7 @@ public class Main {
     }
 
     public static int findMaxCount(BlockingQueue<String> queue, char letter) {
-        int count ;
+        int count;
         int maxCount = 0;
 
         try {
